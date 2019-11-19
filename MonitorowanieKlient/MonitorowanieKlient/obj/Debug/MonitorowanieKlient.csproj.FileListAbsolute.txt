@@ -1,0 +1,14 @@
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\MonitorowanieKlient.exe.config
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\MonitorowanieKlient.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\MonitorowanieKlient.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\AsyncIO.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\NetMQ.dll
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\AsyncIO.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\NetMQ.pdb
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\bin\Debug\NetMQ.xml
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\obj\Debug\MonitorowanieKlient.csprojResolveAssemblyReference.cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\obj\Debug\MonitorowanieKlient.Form1.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\obj\Debug\MonitorowanieKlient.Properties.Resources.resources
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\obj\Debug\MonitorowanieKlient.csproj.GenerateResource.Cache
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\obj\Debug\MonitorowanieKlient.exe
+F:\Semestr II\Techniczne zastosowania systemów mobilnych\MonitorowanieKlient\MonitorowanieKlient\obj\Debug\MonitorowanieKlient.pdb
