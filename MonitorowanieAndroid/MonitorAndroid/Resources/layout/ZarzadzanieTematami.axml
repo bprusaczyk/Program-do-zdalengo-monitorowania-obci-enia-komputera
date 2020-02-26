@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RadioGroup
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioGroup1">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="zużycie RAM-u"
+            android:id="@+id/radioRam" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="zużycie CPU"
+            android:id="@+id/radioCpu" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="zuzycie pamięci przez proces"
+            android:id="@+id/radioProces" />
+    </RadioGroup>
+    <Button
+        android:text="Włącz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wlacz" />
+    <Button
+        android:text="Wyłącz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wylacz" />
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="zużycie RAM-u"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/monitorTekstRam" />
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pasekRam"
+        android:max="8096" />
+    <TextView
+        android:text="zużycie CPU"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/monitorTekstCpu" />
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pasekCpu"
+        android:max="100" />
+    <TextView
+        android:text="zużycie pamięci przez proces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/monitorTekstProces" />
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pasekProces"
+        android:max="8096" />
+    <Button
+        android:text="Zmień stałą czasową"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/zmienStalaCzasowaPrzycisk" />
+    <Button
+        android:text="Sprawdź publikowane tematy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SprawdzPublikowaneTematy" />
+    <Button
+        android:text="Zarządzaj tematami"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ZarzadzajTematami" />
+</LinearLayout>
